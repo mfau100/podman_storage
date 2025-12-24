@@ -48,6 +48,7 @@ registry.redhat.io/rhosp14/openstack-mariadb                  Red Hat OpenStack 
 registry.redhat.io/rhosp14-beta/openstack-mariadb             Red Hat OpenStack Beta Container image for o...
 registry.redhat.io/rhoso-beta/openstack-mariadb-rhel9         pyxis_65e9b2ac4a4799a068545499
 ```
+### I switched to the student user.  I stopped in the middle of this demo and just used student to complete it.
 ### Create a directory to bind-mount to the container.
 ```
 [student@test ~]$ mkdir mydb
